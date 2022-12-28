@@ -9,7 +9,7 @@
  * generic script-path=https://raw.githubusercontent.com/Loon0x00/LoonScript/main/MediaCheck/nf_check.js, tag=Netflix-解锁查询, img-url=checkmark.seal.system
  */
 
- const NF_BASE_URL = "https://www.netflix.com/title/81215567";
+ const NF_BASE_URL = "https://www.netflix.com/title/80062035";
 
 var inputParams = $environment.params;
 var nodeName = inputParams.node;
