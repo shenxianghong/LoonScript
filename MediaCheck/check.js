@@ -11,7 +11,7 @@
  * generic script-path=https://raw.githubusercontent.com/Loon0x00/LoonScript/main/MediaCheck/check.js, tag=流媒体-解锁查询, img-url=checkmark.seal.system
  */
 
-const NF_BASE_URL = "https://www.netflix.com/title/81215567";
+const NF_BASE_URL = "https://www.netflix.com/title/80062035";
 const DISNEY_BASE_URL = 'https://www.disneyplus.com';
 const DISNEY_LOCATION_BASE_URL = 'https://disney.api.edge.bamgrid.com/graph/v1/device/graphql';
 const YTB_BASE_URL = "https://www.youtube.com/premium";
